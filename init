@@ -1,0 +1,10 @@
+S 0
+A 2
+R file_a
+A 60
+B
+R file_b
+D 20
+B
+R file_c
+E
